@@ -12,10 +12,10 @@ function togglemode(){
  
  if(html.classList.contains('light')){
 //se tiver light mode add a imagem light
-img.setAttribute('src', './assets/gato (copia).png')
+img.setAttribute('src', './assets/gato.png')
 } else{
 //se tiver sem light mode manter a imagem normal
-img.setAttribute('src', './assets/picapausad (cópia).png')
+img.setAttribute('src', './assets/picapausad.png')
 
 }
 
